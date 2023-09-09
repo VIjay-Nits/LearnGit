@@ -1,1 +1,2 @@
 Learning Git
+fix issue # 3
